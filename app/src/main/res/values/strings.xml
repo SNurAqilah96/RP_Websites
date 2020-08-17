@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RP Websites</string>
+    //Spinner1
+    <string-array name="Category">
+        <item>RP</item>
+        <item>SOI</item>
+    </string-array>
+
+    //Spinner2
+    <string-array name="SubCategory">
+        <item>Homepage</item>
+        <item>Student Life</item>
+        <item>DMSD</item>
+        <item>DIT</item>
+    </string-array>
+
+    <string name="btnGo">Go</string>
+    <string name="txtcategory">Category</string>
+    <string name="txtsubcategory">SubCategory</string>
+</resources>
